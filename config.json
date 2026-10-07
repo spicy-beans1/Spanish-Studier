@@ -1,0 +1,15 @@
+{
+  "region": {
+    "left": 189,
+    "top": 381,
+    "width": 666,
+    "height": 72
+  },
+  "hotkey": "f8",
+  "tesseract_path": "C:/Users/Vanessa.Serrano/AppData/Local/Tesseract-OCR/tesseract.exe",
+  "scale": 3,
+  "threshold": 140,
+  "invert": "auto",
+  "claude_model": "claude-sonnet-5-5",
+  "always_on_top": true
+}

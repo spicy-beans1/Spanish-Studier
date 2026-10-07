@@ -1,0 +1,7 @@
+mss
+Pillow
+pytesseract
+spacey
+deep-translator
+requests
+keyboard
