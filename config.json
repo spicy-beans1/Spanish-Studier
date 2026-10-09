@@ -1,9 +1,9 @@
 {
   "region": {
-    "left": 189,
-    "top": 381,
-    "width": 666,
-    "height": 72
+    "left": -2279,
+    "top": 1232,
+    "width": 1115,
+    "height": 181
   },
   "hotkey": "f8",
   "tesseract_path": "C:/Users/Vanessa.Serrano/AppData/Local/Tesseract-OCR/tesseract.exe",
@@ -11,5 +11,10 @@
   "threshold": 140,
   "invert": "auto",
   "claude_model": "claude-sonnet-5-5",
-  "always_on_top": true
+  "always_on_top": true,
+  "voice": "",
+  "speech_rate": 1.0,
+  "auto_capture": false,
+  "poll_seconds": 0.6,
+  "settle_ticks": 2
 }

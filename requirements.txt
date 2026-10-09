@@ -1,7 +1,9 @@
 mss
 Pillow
 pytesseract
-spacey
+spacy
 deep-translator
 requests
 keyboard
+verbecc
+tzdata
